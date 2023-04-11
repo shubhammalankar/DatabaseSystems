@@ -17,3 +17,6 @@ Executed various commands and developed a small UI to integrate those queries.
 2. http://localhost/question_2/insertdata.php
 3. http://localhost/question_3/updatedata.php
 4. http://localhost/question_4/deletedata.php
+
+For reference - 
+![unknown_338176286_691157482787340_7671746009956158339_n](https://user-images.githubusercontent.com/32535576/231283314-0b8eb393-037e-48f2-a0dd-49a5a4636657.jpg)
